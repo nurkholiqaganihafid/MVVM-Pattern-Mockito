@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MVVM Pattern Mockito</string>
+    <string name="length">Panjang</string>
+    <string name="width">Lebar</string>
+    <string name="height">Tinggi</string>
+    <string name="save">Simpan</string>
+    <string name="calculate_volume">Hitung Volume</string>
+    <string name="calculate_circumference">Hitung Keliling</string>
+    <string name="calculate_surface_area">Hitung Luas Area</string>
+    <string name="result">Hasil</string>
+    <string name="enter_height">Masukkan Tinggi</string>
+    <string name="enter_width">Masukkan Lebar</string>
+    <string name="enter_length">Masukkan Panjang</string>
+</resources>
